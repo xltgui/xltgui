@@ -79,7 +79,7 @@ Fora da programação, sou entusiasta de jogos, o que alimenta minha criatividad
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=xltgui&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=pt-br" 
   />
@@ -87,7 +87,7 @@ Fora da programação, sou entusiasta de jogos, o que alimenta minha criatividad
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=xltgui&theme=vision-friendly-dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
