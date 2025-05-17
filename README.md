@@ -4,6 +4,22 @@
 
 Me chamo Guilherme Passos, tenho 21 anos. Atualmente estou cursando Sistemas de Informação na Uivillle. Sou fascinado por tecnologia, especialmente por desenvolvimento de software com Java e Spring.
 Fora da programação, sou entusiasta de jogos, o que alimenta minha criatividade e curiosidade constantes.
+<p align="left">
+    <a href="https://github.com/xltgui?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/xltgui?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/xltgui?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/xltgui?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
